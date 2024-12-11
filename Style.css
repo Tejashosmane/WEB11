@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(236, 218, 194);
+    }
+    header {
+    background-color: brown;
+    color: burlywood;
+    padding: 10px 0;
+    padding-bottom: 0%;
+    text-align: center;
+    }
+    nav{
+    background-color: rgb(131, 39, 39);
+    padding: 5px;
+    }
+    nav ul{
+    list-style-type: none;
+    padding: 0;
+    }
+    nav ulli{
+    display: inline;
+    padding: 7px;
+    }
+    nav ul li a{
+    color: burlywood;
+    text-decoration: none;
+    }
+    main{
+    padding: 20px;
+    }
+    
