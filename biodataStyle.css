@@ -1,0 +1,94 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(236, 218, 194);
+    }
+    header {
+    background-color: brown;
+    color: burlywood;
+    padding: 10px 0;
+    padding-bottom: 0%;
+    text-align: center;
+    }
+    nav{
+    background-color: rgb(131, 39, 39);
+    padding: 5px;
+    }
+    nav ul{
+    list-style-type: none;
+    padding: 0;
+    }
+    nav ulli{
+    display: inline;
+    padding: 7px;
+    }
+    nav ul li a{
+    color: burlywood;
+    text-decoration: none;
+    }
+    main{
+    padding: 20px;
+    }
+    #biomain{
+    padding: 0;
+    margin-top: 20px;
+    }
+    #biodata{
+    background-color: rgb(167, 55, 55);
+    padding: 10px;
+    margin: 0;
+    color: burlywood;
+    text-align: center;
+    }
+    .personal {
+    display: flex;
+    }
+    #sec1{
+    flex : 2;
+    }
+    #sec2{
+    flex: 2;
+    }
+    #sec3{
+    flex: 1;
+    }
+    section ulli , aside ul li{
+    list-style-type: none;
+    }
+    main h3{
+    background-color:  rgb(167, 55, 55);
+    padding: 10px;
+    margin-top: 10px;
+    color: burlywood;
+    text-align: center;
+    }
+    img {
+    float: right;
+    margin-right: 40px;
+    height: 270px;
+    }
+    aside ul {
+    margin-top: 63px;
+    }
+    pre{
+    font-family: Arial, sans-serif;
+    }
+    .education{
+    display: flex;
+    margin: 40px;
+    }
+    ulli{
+    list-style-type: none;
+    }
+    #sec4{
+    flex: 7;
+    }
+    #sec5{
+    flex: 1;
+    }
+    .work{
+    display: flex;
+    margin: 40px;
+    }
+    
